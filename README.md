@@ -1,12 +1,10 @@
 # PASS-CRACKER
-
-. 
  ____                   ____                _
 |  _ \ __ _ ___ ___    / ___|_ __ __ _  ___| | _____ _ __  
 | |_) / _` / __/ __|  | |   | '__/ _` |/ __| |/ / _ \ '__| 
 |  __/ (_| \__ \__ \  | |___| | | (_| | (__|   <  __/ |
 |_|   \__,_|___/___/   \____|_|  \__,_|\___|_|\_\___|_|
-.
+
 ### Intoduction        
 Simple CLI based password hash Craking tool.
 Python based Password Cracker and Hash Identifier. This tool works on both linux(Kali linux, termux, ubuntu, etc.) and Windows.
