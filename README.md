@@ -42,7 +42,7 @@ pyhton pass-crcaker-win.py
 
 ### - For LINUX:
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/KalyanSingh05/PASS-CRACKER.git
 ```
 ```bash
   cd pass-cracker
