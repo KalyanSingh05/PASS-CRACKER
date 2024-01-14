@@ -1,9 +1,11 @@
 # PASS-CRACKER
- ____                   ____                _
+```
+____                   ____                _
 |  _ \ __ _ ___ ___    / ___|_ __ __ _  ___| | _____ _ __  
 | |_) / _` / __/ __|  | |   | '__/ _` |/ __| |/ / _ \ '__| 
 |  __/ (_| \__ \__ \  | |___| | | (_| | (__|   <  __/ |
 |_|   \__,_|___/___/   \____|_|  \__,_|\___|_|\_\___|_|
+```
 
 ### Intoduction        
 Simple CLI based password hash Craking tool.
@@ -54,8 +56,8 @@ python pass-crack-linux.py
 ```
 - The **requirements.txt** will install all the libs required to run this tool.
 
-### Dictionary file is also there for testing purpose
-### SAMPLE ENCRYPTED FILES ARE ALSO THERE SO YOU CAN TEST THIS TOOL  (password:-123456)
+- ### Dictionary file is also there for testing purpose
+- ### SAMPLE ENCRYPTED FILES ARE ALSO THERE SO YOU CAN TEST THIS TOOL  (password:-123456)
 
 
 
