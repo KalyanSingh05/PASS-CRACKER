@@ -55,7 +55,8 @@ python pass-crack-linux.py
 ```
 - The **requirements.txt** will install all the libs required to run this tool.
 
-
+### Dictionary file is also there for testing purpose
+### SAMPLE ENCRYPTED FILES ARE ALSO THERE SO YOU CAN TEST THIS TOOL  (password:-123456)
 
 
 
