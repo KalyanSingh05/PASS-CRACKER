@@ -64,7 +64,7 @@ python pass-crack-linux.py
 5baa61e4c9b93f3f0682250b6cf8331b7ee68fd8
 ```
 
-**NOTE :** The provided Hashes are Example only for Hash Identification and Cracking the hash string;
+**NOTE :** The provided Hashes are Example only for Testing;
 
 
 
