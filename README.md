@@ -1,11 +1,7 @@
 # PASS-CRACKER
-```
- ____                   ____                _
-|  _ \ __ _ ___ ___    / ___|_ __ __ _  ___| | _____ _ __  
-| |_) / _` / __/ __|  | |   | '__/ _` |/ __| |/ / _ \ '__| 
-|  __/ (_| \__ \__ \  | |___| | | (_| | (__|   <  __/ |
-|_|   \__,_|___/___/   \____|_|  \__,_|\___|_|\_\___|_|
-```
+
+![Screenshot 2024-01-14 201332](https://github.com/KalyanSingh05/PASS-CRACKER/assets/95122829/908dcc87-44ec-493f-a24e-4747d807bee7)
+
 
 ### Intoduction        
 Simple CLI based password hash Craking tool.
@@ -55,6 +51,24 @@ pip -r requirements.txt
 python pass-crack-linux.py
 ```
 - The **requirements.txt** will install all the libs required to run this tool.
+
+
+### - For tesing hash
+- **MD5** hash for "password" :
+```
+5f4dcc3b5aa765d61d8327deb882cf99
+```
+
+- **SHA-1** hash for "password" :
+```
+5baa61e4c9b93f3f0682250b6cf8331b7ee68fd8
+```
+
+**NOTE :** The provided Hashes are Example only for Hash Identification and Cracking the hash string;
+
+
+
+
 
 - ### Dictionary file is also there for testing purpose
 - ### SAMPLE ENCRYPTED FILES ARE ALSO THERE SO YOU CAN TEST THIS TOOL  (password:-123456)
